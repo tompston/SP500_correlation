@@ -28,3 +28,4 @@ OLS Linear Regression using statsmodel.
 
 The "correlation_all" holds the results that are based on all of the scraped info.  
 The "correlation_sectors" holds the results, based on the sector in which the company operates.  
+The OLS results are sorted descendingly by R_SQ (R Squared column).  
