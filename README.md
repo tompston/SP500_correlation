@@ -9,7 +9,7 @@
 
 - Average value of annual stock increase (mean) = 14%
 
-- Calculations use 1983 years in total for calculations
+- 1983 years are used in total for calculations
 
 ## annual_stock_increase
 
