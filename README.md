@@ -29,15 +29,15 @@ The column is used as the main value that is compared to the other variables in 
 
 ## Pearsons correlation
 
-- Highest observed correlation can be seen for "stockBasedCompensationToRevenue", 19%.
+Highest observed correlation can be seen for "stockBasedCompensationToRevenue", 19%.
 
 ## Spearmans correlation
 
-- Highest observed correlation can be seen for "enterpriseValueOverEBITDA", 36%.
+Highest observed correlation can be seen for "enterpriseValueOverEBITDA", 36%.
 
 ## Ordinary least squares
 
-- Highest observed R Squared value can be seen for "stockBasedCompensationToRevenue", 4%.
+Highest observed R Squared value can be seen for "stockBasedCompensationToRevenue", 4%.
 
 # Conclusion
 
