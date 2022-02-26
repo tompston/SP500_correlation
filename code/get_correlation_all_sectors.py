@@ -13,4 +13,3 @@ spearman_correlation = df.corr(method="spearman")
 spearman_stock_increase = spearman_correlation["enterprise_value.annual_stock_increase"].sort_values(ascending=False)
 print(spearman_correlation)
 # # spearman_stock_increase.to_csv("end_spearman_correlation.csv")
-
